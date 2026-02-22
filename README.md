@@ -14,5 +14,8 @@ python3 main.py
 Pour info, toutes les data scrapées se retrouvent dans le dossier 
 **data** => avec le json de base (**50k Coureurs Propres.json**) et le csv à télécharger (**Clean Data.csv**)
 
+Et le pdf du projet se nomme **[Alec DIAMIDIA - M1 Eugenia] _ Livrable Python Project.pdf**
+Bonne lecture.
+
 ## Mon projet est cool ?
 N'hésite pas à lui mettre des ⭐️.
